@@ -8,6 +8,6 @@ So far the structure consists of 3 Folders:
 2. Data - The data complementing the code.
 3. Reports - Final conclusions drawn from inferences in the data written in LaTeX. 
 
-My goal will be to expand this with new projects and proper reports. Areas I'd like to expand into include learning Power BI to improve reports, and 
+My goal will be to expand this with new projects and proper reports, learning Power BI is one of my next steps.
 
 Finally, I'd like to thank my professor Joann Jasiak for all of her help. She inspired me to push myself to be a both better programmer and data scientist. and this repository wouldn't have been possible without her. Please check her work out at http://www.jjstats.com/, she is an awesome person.
